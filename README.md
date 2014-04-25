@@ -7,11 +7,13 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 Below are some of the devliverables for the project
 
-1) A detailed tidy data set (tidy1.txt) that has the clean data set with 10,299 rows and 564 columns. This has the detail information for all the measurements, activity code, subject code and the activity description
+1) A link to the raw data set
 
-2) A summarized tidy data set (tidy2.txt) that has the clean summarized data set with the average of each variable for each activity and each subject. The columns have been filtered out for key words mean and std. This dataset has 180 rows and 69 columns
+2) A detailed tidy data set (tidy1.txt) that has the clean data set with 10,299 rows and 564 columns. This has the detail information for all the measurements, activity code, subject code and the activity description
 
-3) a link to a Github repository with the script for performing the analysis
+3) A summarized tidy data set (tidy2.txt) that has the clean summarized data set with the average of each variable for each activity and each subject. The columns have been filtered out for key words mean and std. This dataset has 180 rows and 69 columns
+
+4) a link to a Github repository with the script for performing the analysis
 
 
 Code Description
