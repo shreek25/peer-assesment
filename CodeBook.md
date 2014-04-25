@@ -46,3 +46,18 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 
 std(): Standard deviation
+
+Transformations
+=======================
+
+There are several transformations applied to the dataset
+
+1) Row and column transformations including row bind and column bind
+
+2) Data Merging with disparate sources
+
+3) Reduction in the number of columns based on key words
+
+4) Data Summarization 
+
+
